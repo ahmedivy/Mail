@@ -1,0 +1,9 @@
+textarea {
+    min-height: 400px;
+}
+
+.email {
+    border: 2px;
+    border-radius: 1px;
+    border-color: blue;
+}
